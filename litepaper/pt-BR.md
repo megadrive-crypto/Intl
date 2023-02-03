@@ -8,9 +8,12 @@ Megadrive Coin é uma criptomoeda anônima, minerável e descentralizada baseada
 
 O Megadrive Coin é projetado para recompensar os usuários por suas contribuições para a comunidade. O token será distribuído por airdrops, brindes e outras atividades promocionais. Você poderá minerar a MegaDriveCoin com o seu computador e celular.
 
-* ##### ** A tokenomics da moeda MegaDrive e o preço da ICO ainda não estão disponíveis para compra pública. 
+### PRÉ-VENDA - ICO
+##### ** A tokenomics da moeda MegaDrive e o preço da ICO ainda não estão disponíveis para compra pública. 
 
-### MegaDex
+## MegaDex EcoSistem
+
+### MegaDex DeFi
 é uma plataforma baseada em blockchain que fornece um conjunto de ferramentas e serviços para os usuários ganharem, gastarem e gerenciarem seus ativos digitais. A plataforma inclui um sistema de apostas, oportunidades de cultivo, jogos, um metaverso e tokens não fungíveis (NFTs).
 
 ### Stake
