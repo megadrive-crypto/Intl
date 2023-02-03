@@ -25,6 +25,9 @@ Permitem que os usuários ganhem recompensas fornecendo liquidez à plataforma.
 ### Games
 Estarão disponíveis na plataforma diversos jogos 15bit baseados nos jogos originais do console, permitindo que os usuários ganhem recompensas ao jogar. Esta é uma ótima maneira de se divertir e aumentar o valor de suas moedas.
 
+### Play2Mine Roms
+Minere Megadrive coins enquando joga roms do megadrive (rode no pc, mac, raspberry pi, smartv).
+
 ### Megametaverso
 é um mundo virtual onde os usuários podem explorar, criar e interagir com outras pessoas, agregar valor e conhecimento no ecosistema da MegaDex.
 
