@@ -1,5 +1,5 @@
 ## MEGADRIVE COIN
-#### Uma Criptomoeda anônima, descentralizado e minerável para entusiastas do Sega Mega Drive
+#### Uma Criptomoeda anônima, descentralizada e minerável para entusiastas do Sega Mega Drive
 
 ### Introdução
 O **Sega Mega Drive** foi um dos consoles de jogos mais populares da década de 1990. Foi um sistema revolucionário que levou o jogo a um nível totalmente novo. Agora, os entusiastas do Sega Mega Drive têm uma nova maneira de mostrar seu amor pelo console: **Megadrive Coin**.
