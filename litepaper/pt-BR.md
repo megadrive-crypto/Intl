@@ -4,7 +4,7 @@
 ### Introdução
 O **Sega Mega Drive** foi um dos consoles de jogos mais populares da década de 1990. Foi um sistema revolucionário que levou o jogo a um nível totalmente novo. Agora, os entusiastas do Sega Mega Drive têm uma nova maneira de mostrar seu amor pelo console: **Megadrive Coin**.
 
-Megadrive Coin é uma criptomoeda anônima, minerável e descentralizada baseada no blockchain da MONERO (cryptonode) que terá um token DeFi lastreado na rede AVALANCHE (AVAX). projetado para reunir a comunidade Sega Mega Drive, uma moeda de meme / token de fã que será usada para recompensar os usuários por suas contribuições à comunidade, comprar mercadorias exclusivas, acessar eventos especiais e muito mais.
+Megadrive Coin é uma criptomoeda anônima, minerável e descentralizada baseada no blockchain da MONERO (cryptonode) que terá um token DeFi lastreado na rede AVALANCHE (AVAX). projetado para reunir a comunidade Sega Mega Drive, uma memecoin/fantoken que será usada para recompensar os usuários por suas contribuições à comunidade, comprar mercadorias exclusivas, acessar eventos especiais, investir na nossa plataforma DeFi e muito mais.
 
 O Megadrive Coin é projetado para recompensar os usuários por suas contribuições para a comunidade. O token será distribuído por airdrops, brindes e outras atividades promocionais. Você poderá minerar a MegaDriveCoin com o seu computador e celular.
 
@@ -26,7 +26,7 @@ Permitem que os usuários ganhem recompensas fornecendo liquidez à plataforma.
 Estarão disponíveis na plataforma diversos jogos 15bit baseados nos jogos originais do console, permitindo que os usuários ganhem recompensas ao jogar. Esta é uma ótima maneira de se divertir e aumentar o valor de suas moedas.
 
 ### Play2Mine Roms
-Minere Megadrive coins enquando joga roms do megadrive (rode no pc, mac, raspberry pi, smartv).
+Você pode minerar Megadrive coins enquando joga roms do megadrive (rode no pc, mac, raspberry pi, smartv).
 
 ### Megametaverso
 é um mundo virtual onde os usuários podem explorar, criar e interagir com outras pessoas, agregar valor e conhecimento no ecosistema da MegaDex.
