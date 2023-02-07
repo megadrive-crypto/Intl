@@ -1,8 +1,11 @@
+<span style="width:100%; text-align:center; margin:0px auto;">
+<img src="https://avatars.githubusercontent.com/u/124246008?s=100&u=a5bd256981854b0f0dbbbb3e9c23b301b97a7281&v=4"/>
+</span>
 
-# MEGADRIVE COIN
-### An Anonymous, Decentralized and Mineable Cryptocurrency for Sega Mega Drive Enthusiasts
+## MEGADRIVE COIN
+#### An Anonymous, Decentralized and Mineable Cryptocurrency for Sega Mega Drive Enthusiasts
 
-## Introduction
+### Introduction
 The Sega Mega Drive was one of the most popular game consoles of the 1990s. It was a revolutionary system that took gaming to a whole new level. Now Sega Mega Drive enthusiasts have a new way to show their love for the console: Megadrive Coin.
 
 Megadrive Coin is an anonymous, mineable and decentralized cryptocurrency based on the MONERO blockchain (cryptonode) that will have a DeFi token backed by the AVALANCHE network (AVAX). designed to bring together the Sega Mega Drive community, a meme currency / fan token that will be used to reward users for their contributions to the community, purchase exclusive merchandise, access special events and much more.
@@ -11,22 +14,22 @@ Megadrive Coin is designed to reward users for their contributions to the commun
 
 MegaDrive coin tokennomics and ICO price are not yet publicly available. MegaDrive Coin is a private token and not available for public purchase. Tokennomics and ICO prices are determined by the MegaDex Ecosystem team and are not disclosed to the public.
 
-## MegaDex
+### MegaDex
 is a blockchain-based platform that provides a set of tools and services for users to earn, spend and manage their digital assets. The platform includes a betting system, farming opportunities, games, a metaverse, and non-fungible tokens (NFTs).
 
-## Stake
+### Stake
 allows users to earn rewards by locking their coins in a smart contract. This is a great way to earn passive income and increase the value of your coins.
 
-## Farming / Mint
+### Farming / Mint
 Opportunities allow users to earn rewards by providing liquidity to the platform. This is a great way to earn passive income and increase the value of your coins.
 
-## Games
+### Games
 are available on the platform, allowing users to earn rewards by playing games. This is a great way to have fun and increase the value of your coins.
 
-## megametaverse
+### megametaverse
 is a virtual world where users can explore, create and interact with others. This is a great way to have fun and increase the value of your coins.
 
-## FanArt NFT Market
+### FanArt NFT Market
 Non-fungible tokens (NFTs) are unique digital assets and cannot be replicated. This is a great way to collect and trade digital assets and increase the value of your coins.
 
 ## Roadmap - Roadmap
