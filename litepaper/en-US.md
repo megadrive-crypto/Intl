@@ -24,7 +24,7 @@ Allows users to earn rewards by locking their coins in a smart contract. This is
 Allow users to earn rewards by providing liquidity to the platform.
 
 ### Games
-Several 15bit games based on the console's original games will be available on the platform, allowing users to earn rewards by playing. This is a great way to have fun and increase the value of your coins.
+Several 16bit games based on the console's original games will be available on the platform, allowing users to earn rewards by playing. This is a great way to have fun and increase the value of your coins.
 
 ### Play2Mine Roms
 You can mine megadrive coins while playing megadrive roms (run on pc, mac, raspberry pi, smartv).
@@ -36,18 +36,5 @@ it is a virtual world where users can explore, create and interact with other pe
 Non-fungible Tokens (NFTs) Marketplace with FanArts and exclusive collections. They are unique digital assets and cannot be replicated.
 
 ### Roadmap - Roadmap
-- Create a whitepaper describing the goals and objectives of the Megadex Ecosystem.
-- Develop the protocols of the entire blockchain ecosystem.
-- Design a consensus algorithm.
-- Develop your own Wallet.
-- Create a website.
-- Develop a mobile app.
-- Develop a decentralized exchange (DEX).
-- Create a token for the Megadex Ecosystem.
-- Develop a smart contract platform for the Megadex Ecosystem.
-- Develop a mining system.
-- Develop a payment system.
-- Develop a security system.
-- Develop a user interface.
-- Develop a system for listing and exchanging Megadrive coins on DEX.
-- Develop a monitoring and auditing system.
+
+Comming soon... Stay Tuned!
